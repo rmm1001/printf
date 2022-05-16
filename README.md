@@ -7,10 +7,10 @@ Files
 Below we list the files in this directory and what they do in the program. The files can be compiled using the command:
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.h *.c`
 
-- [_printf.c]
-- [conv_specifiers.c]
-- [main.h]
-- [writer\_functions]
+- [\_printf.c](https://github.com/KatlegoMachethe/printf)
+- [conv_specifiers.c](https://github.com/KatlegoMachethe/printf)
+- [main.h](https://github.com/KatlegoMachethe/printf)
+- [writer\_functions](https://github.com/KatlegoMachethe/printf)
 
 
 Partner
