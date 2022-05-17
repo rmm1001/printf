@@ -15,6 +15,10 @@ int print_char(va_list);
 int print_string(va_list);
 int print_percent(va_list);
 
+/* Converter specifiers for numbers*/
+int numbers(va_list);
+int print_integers(va_list);
+
 /**
  * struct handle - structure
  */
